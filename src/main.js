@@ -7,7 +7,7 @@ import firebase from "firebase/app";
 
 const firebaseConfig = {
   apiKey: "AIzaSyC4L3oTMsV4GooF5CqLSQoqHdeM92rKeHY",
-  authDomain: "assignment-manager-9f8c1.firebaseapp.com",
+  authDomain: "assignments.dylancaulfield.ie",
   databaseURL: "https://assignment-manager-9f8c1.firebaseio.com",
   projectId: "assignment-manager-9f8c1",
   storageBucket: "",
